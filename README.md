@@ -34,4 +34,5 @@ persistência dos dados.
 
 
 
-Para rodara aplicaçao basta crirar um banco em no sql chamado produto.
+Para rodara aplicaçao basta crirar um banco em no sql chamado produtos.
+
