@@ -1,7 +1,7 @@
 # CRUD
 
 Crud desenvolvido por Danylo silva.
-Para o teste tecnico da 3WINGS.
+Para o teste tecnico da Noxtec.
 
 Teste Técnico: Desenvolvimento Full Stack
 Objetivo Geral:
